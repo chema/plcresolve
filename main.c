@@ -1,3 +1,7 @@
+// plcresolve -  PLC handle resolution for AT Protocol/Bluesky 
+// Copyright (c) 2024 Chema Hernández Gil / AGPL-3.0 license
+// https://github.com/chema/plcresolve
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
